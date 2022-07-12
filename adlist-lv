@@ -91,7 +91,6 @@
 0.0.0.0	optibet.lv
 0.0.0.0	optibet.ladesk.com
 0.0.0.0	eu1.iso.ladesk.com
-0.0.0.0	ladesk.com
 0.0.0.0	rutor-org.games
 0.0.0.0 1casino.media
 0.0.0.0 olybethelp.zendesk.com
@@ -111,7 +110,6 @@
 0.0.0.0 sentry-cdn.com
 0.0.0.0 mozello.lv
 0.0.0.0 cdn.faptitans.com
-0.0.0.0 faptitans.com
 0.0.0.0	cdn.trafficbass.com
 0.0.0.0 trafficbass.com
 0.0.0.0	cdn19641441.ahacdn.me
@@ -124,15 +122,11 @@
 0.0.0.0 cdn.kwork.ru
 0.0.0.0	z.cdn.1casino.media
 0.0.0.0 cdn.1casino.media
-0.0.0.0 1casino.media
 0.0.0.0 olybetaffiliates.com
 0.0.0.0	z.cdn.trafficbass.com
 0.0.0.0 cdn.trafficbass.com
-0.0.0.0 trafficbass.com
 0.0.0.0	n3.cdn.trafficbass.com
 0.0.0.0	n1.cdn.trafficbass.com
-0.0.0.0 cdn.trafficbass.com
-0.0.0.0 trafficbass.com
 0.0.0.0 cdn.cloudimagesb.com
 0.0.0.0 cloudimagesb.com
 0.0.0.0 cs09.chief-inpp-code.com
@@ -158,7 +152,6 @@
 0.0.0.0 record.betssongroupaffiliates.com
 0.0.0.0 betssongroupaffiliates.com
 0.0.0.0 partners.olybetaffiliates.com
-0.0.0.0 olybetaffiliates.com
 0.0.0.0 paf.elb.myaffiliates.com
 0.0.0.0 elb.myaffiliates.com
 0.0.0.0 myaffiliates.com
@@ -166,7 +159,6 @@
 0.0.0.0 cdnroute.bpsgameserver.com
 0.0.0.0 bpsgameserver.com
 0.0.0.0 promotions.betsafe.lv
-0.0.0.0 betsafe.lv
 0.0.0.0 ice-redirect.com
 0.0.0.0 ice-casino34.com
 0.0.0.0 icecasino.com
